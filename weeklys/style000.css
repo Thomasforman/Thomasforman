@@ -1,0 +1,41 @@
+h1{
+  font-family: 'Staatliches', cursive;
+
+font-size: 50px;
+/* font-family: 'Libre Barcode 128 Text', cursive; */
+text-align: center;
+
+
+}
+header{
+width: 500px;
+background: red;
+text-align: center;
+
+
+}
+h2{
+font-size: 50px;
+font-family: serif;
+text-decoration: underline;
+text-align: center;
+background: yellow;
+
+
+}
+
+h3{
+font-size: 30px;
+font-family: sans-serif;
+text-decoration: overline;
+
+
+
+
+}
+body{
+background: yellow;
+
+
+
+}
